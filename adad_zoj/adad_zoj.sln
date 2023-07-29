@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adad_zoj", "adad_zoj\adad_zoj.csproj", "{16C6ED93-0230-496A-98C1-500E93147BEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weekday", "Weekday\Weekday.csproj", "{12936E8F-0455-46CB-91D4-1D4D3A2DEFFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{16C6ED93-0230-496A-98C1-500E93147BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C6ED93-0230-496A-98C1-500E93147BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C6ED93-0230-496A-98C1-500E93147BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12936E8F-0455-46CB-91D4-1D4D3A2DEFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12936E8F-0455-46CB-91D4-1D4D3A2DEFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12936E8F-0455-46CB-91D4-1D4D3A2DEFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12936E8F-0455-46CB-91D4-1D4D3A2DEFFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
