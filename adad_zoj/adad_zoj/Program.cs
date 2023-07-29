@@ -5,4 +5,3 @@
         Console.WriteLine(i);
     }
 }
-Console.ReadLine();
