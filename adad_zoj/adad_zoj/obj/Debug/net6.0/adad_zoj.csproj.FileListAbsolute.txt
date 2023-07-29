@@ -1,0 +1,15 @@
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\bin\Debug\net6.0\adad_zoj.exe
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\bin\Debug\net6.0\adad_zoj.deps.json
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\bin\Debug\net6.0\adad_zoj.runtimeconfig.json
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\bin\Debug\net6.0\adad_zoj.dll
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\bin\Debug\net6.0\adad_zoj.pdb
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.csproj.AssemblyReference.cache
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.AssemblyInfoInputs.cache
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.AssemblyInfo.cs
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.csproj.CoreCompileInputs.cache
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.dll
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\refint\adad_zoj.dll
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.pdb
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\adad_zoj.genruntimeconfig.cache
+C:\Users\Elecomp\Desktop\Github2\adad_zoj\adad_zoj\obj\Debug\net6.0\ref\adad_zoj.dll
