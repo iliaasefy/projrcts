@@ -6,4 +6,3 @@
     }
 }
 Console.ReadLine();
-Console.ReadLine();
